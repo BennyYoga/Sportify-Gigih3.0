@@ -1,0 +1,60 @@
+[
+  {
+    "IdPlaylist": "PlayList1",
+    "IdUser" : 1,
+    "name": "Lagu Kesukaanku",
+    "desc": "lagu kenang kenangan ketika kita masih bersama",
+    "song": [
+      { "IdSong": "Song1", "count": 0 },
+      { "IdSong": "Song2", "count": 0 },
+      { "IdSong": "Song3", "count": 0 }
+    ]
+  },
+  {
+    "IdPlaylist": "PlayList2",
+    "IdUser" : 2,
+    "name": "Lagu Galau",
+    "desc": "lagu kalau aku galau dan sedang menyendiri",
+    "song": [
+      { "IdSong": "Song41", "count": 0 },
+      { "IdSong": "Song31", "count": 0 },
+      { "IdSong": "Song33", "count": 0 },
+      { "IdSong": "Song11", "count": 0 }
+    ]
+  },
+  {
+    "IdPlaylist": "PlayList3",
+    "IdUser" : 1,
+    "name": "Lagu Penyemangat",
+    "desc": "lagu bangkit dari keterpurukan cocok kalian sedang onfire",
+    "song": [
+      { "IdSong": "Song13", "count": 0 },
+      { "IdSong": "Song21", "count": 0 },
+      { "IdSong": "Song40", "count": 0 }
+    ]
+  },
+  {
+    "IdPlaylist": "PlayList4",
+    "IdUser" : 1,
+    "name": "Favorite Song",
+    "desc": "Best banget buat didengerin pas lagi santai",
+    "song": [
+      { "IdSong": "Song1", "count": 0 },
+      { "IdSong": "Song23", "count": 0 },
+      { "IdSong": "Song15", "count": 0 },
+      { "IdSong": "Song35", "count": 0 }
+    ]
+  },
+  {
+    "IdPlaylist": "PlayList5",
+    "IdUser" : 2,
+    "name": "Lagu Nosttalgia",
+    "desc": "lagu masa masa kecil dulu",
+    "song": [
+      { "IdSong": "Song1", "count": 0 },
+      { "IdSong": "Song12", "count": 0 },
+      { "IdSong": "Song30", "count": 0 },
+      { "IdSong": "Song14", "count": 0 }
+    ]
+  }
+]

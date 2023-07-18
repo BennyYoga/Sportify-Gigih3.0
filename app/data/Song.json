@@ -1,0 +1,352 @@
+[
+  {
+    "IdSong": "Song1",
+    "title": "Hati Hati Dijalan",
+    "artist": ["Tulus"],
+    "status": "Stoped",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song2",
+    "title": "Berpisah Itu Mudah",
+    "artist": ["Rizky Febrian", "Mikha Tambayong"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watc,h?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song3",
+    "title": "Dear god",
+    "artist": ["Avenged Sevenfold"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song4",
+    "title": "Fana Merah Jambu",
+    "artist": ["Fourtwnty"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song5",
+    "title": "Akad",
+    "artist": ["Payung Teduh"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watc,h?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song6",
+    "title": "Nala",
+    "artist": ["Tulus"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song7",
+    "title": "Ruang Sendiri",
+    "artist": ["Tulus"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song8",
+    "title": "Cinta Luar Biasa",
+    "artist": ["Andmesh Kamaleng"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song9",
+    "title": "Mundur Alon-Alon",
+    "artist": ["Ilux", "Sabyan"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song10",
+    "title": "Kasih Tak Sampai",
+    "artist": ["Padi"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song11",
+    "title": "Sampai Jumpa",
+    "artist": ["Endank Soekamti"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song12",
+    "title": "Rindu",
+    "artist": ["Ari Lasso"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song13",
+    "title": "Separuh Nafas",
+    "artist": ["Dewa 19"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song14",
+    "title": "Kangen",
+    "artist": ["Dewa 19"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song15",
+    "title": "Pupus",
+    "artist": ["Dewa 19"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song16",
+    "title": "Mungkin Nanti",
+    "artist": ["Peterpan"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song17",
+    "title": "Cobalah Mengerti",
+    "artist": ["Peterpan"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song18",
+    "title": "Menunggu Pagi",
+    "artist": ["Peterpan"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song19",
+    "title": "Mungkin",
+    "artist": ["Potret"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song20",
+    "title": "Bagaikan Langit",
+    "artist": ["Potret"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song21",
+    "title": "Tak Ada Yang Abadi",
+    "artist": ["Peterpan"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song22",
+    "title": "Kisah Klasik Untuk Masa Depan",
+    "artist": ["Sheila on 7"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song23",
+    "title": "Pemuja Rahasia",
+    "artist": ["Sheila on 7"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song24",
+    "title": "Dan",
+    "artist": ["Sheila on 7"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song25",
+    "title": "Sephia",
+    "artist": ["Sheila on 7"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song26",
+    "title": "Anugerah Terindah yang Pernah Kumiliki",
+    "artist": ["Sheila on 7"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song27",
+    "title": "Bintang Kehidupan",
+    "artist": ["Nike Ardilla"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song28",
+    "title": "Sandiwara Cinta",
+    "artist": ["Nike Ardilla"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song29",
+    "title": "Bintang Keabadian",
+    "artist": ["Nike Ardilla"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song30",
+    "title": "Kau",
+    "artist": ["Nike Ardilla"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song31",
+    "title": "Mengapa Harus Berpisah",
+    "artist": ["Nike Ardilla"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song32",
+    "title": "Ku Tak Akan Bersuara",
+    "artist": ["Nike Ardilla"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song33",
+    "title": "Tentang Rindu",
+    "artist": ["Virzha"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song34",
+    "title": "Tak Sempurna",
+    "artist": ["Bondan Prakoso", "Fade2Black"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song35",
+    "title": "Ya Sudahlah",
+    "artist": ["Bondan Prakoso", "Fade2Black"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song36",
+    "title": "Kau Puisi",
+    "artist": ["Bondan Prakoso", "Fade2Black"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song37",
+    "title": "Ku Ingin Kau Mati Saja",
+    "artist": ["Souljah"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song38",
+    "title": "Lelaki",
+    "artist": ["Element"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song39",
+    "title": "Maaf Dari Surga",
+    "artist": ["Element"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song40",
+    "title": "Rahasia Hati",
+    "artist": ["Element"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song41",
+    "title": "Cinta Tak Bersyarat",
+    "artist": ["Element"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song42",
+    "title": "Hapus Aku",
+    "artist": ["Nidji"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song43",
+    "title": "Laskar Pelangi",
+    "artist": ["Nidji"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song44",
+    "title": "Sumpah dan Cinta Matiku",
+    "artist": ["Nidji"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song45",
+    "title": "Arti Sahabat",
+    "artist": ["Nidji"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song46",
+    "title": "Jangan Lupakan",
+    "artist": ["Nidji"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  },
+  {
+    "IdSong": "Song47",
+    "title": "Pertama",
+    "artist": ["Reza Artamevia"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=XeOG-bUn4jc"
+  },
+  {
+    "IdSong": "Song48",
+    "title": "Satu Yang Tak Bisa Lepas",
+    "artist": ["Reza Artamevia"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9Bj SingersKYlRoo"
+  },
+  {
+    "IdSong": "Song49",
+    "title": "Kaulah Segalanya",
+    "artist": ["Ruth Sahanaya"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=MdX3Qg_2_lw"
+  },
+  {
+    "IdSong": "Song50",
+    "title": "Keliru",
+    "artist": ["Ruth Sahanaya"],
+    "status": "Played",
+    "url": "https://www.youtube.com/watch?v=9ZrAYxWPN6c"
+  }
+]
